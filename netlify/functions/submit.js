@@ -1,4 +1,3 @@
-js
 // Del Toro Law — estate intake mailer (Netlify Function)
 const RESEND_URL = "https://api.resend.com/emails";
 const MAX_BODY_BYTES = 8 * 1024 * 1024;
